@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392263780357",
+    "project_id": "fir-study-a8ad1",
+    "storage_bucket": "fir-study-a8ad1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392263780357:android:4252289b3fb372effc346c",
+        "android_client_info": {
+          "package_name": "com.KGA.FirebaseTest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy8BIC487EKQW--Jqo80-H-tevMoOacIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
