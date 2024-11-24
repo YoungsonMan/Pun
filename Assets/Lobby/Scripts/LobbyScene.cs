@@ -38,6 +38,7 @@ public class LobbyScene : MonoBehaviourPunCallbacks
     {
         Debug.Log("접속에 성공했다!");
         SetActivePanel(Panel.Menu);
+
     }
 
     public override void OnDisconnected(DisconnectCause cause)

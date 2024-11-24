@@ -12,10 +12,14 @@ public class MainPanel : MonoBehaviour
     [SerializeField] TMP_InputField roomNameInputField;
     [SerializeField] TMP_InputField maxPlayerInputField;
 
+    [SerializeField] GameObject specPanel;
+
     private void OnEnable()
     {
         
         createRoomPanel.SetActive(false);
+        specPanel.SetActive(true);
+
     }
 
     public void CreateRoomMenu()
